@@ -23,3 +23,7 @@ apt-get install python
 
 
 ```
+
+### PREZ
+
+http://slides.com/rhwy/being-functional
