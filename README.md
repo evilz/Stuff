@@ -32,3 +32,9 @@ http://slides.com/rhwy/being-functional
 ### ASPNET CORE STUFF
 
 - http://www.smarterasp.net/support/kb/a1869/how-to-config-aspnetcore-environment-for-asp_net-core-application.aspx
+
+
+
+Debug
+-------
+https://blogs.msdn.microsoft.com/visualstudio/2017/09/18/7-more-lesser-known-debugging-tactics-for-visual-studio/
