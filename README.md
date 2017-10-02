@@ -5,7 +5,7 @@
 https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run-from-source
 https://gist.github.com/ted-piotrowski/e5c223a6a2f6f3079cb38c959ceecaa6#file-visualstudiocode-sh
 
-
+```
 apt-get update && apt-get upgrade
 apt-get install build-essential
 sudo apt-get install libxss1
@@ -38,3 +38,10 @@ http://slides.com/rhwy/being-functional
 Debug
 -------
 https://blogs.msdn.microsoft.com/visualstudio/2017/09/18/7-more-lesser-known-debugging-tactics-for-visual-studio/
+
+
+
+### Command line stuff
+
+- spinner braille : https://github.com/ManrajGrover/halo
+
