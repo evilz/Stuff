@@ -27,6 +27,7 @@ apt-get install python
 ### PREZ
 
 http://slides.com/rhwy/being-functional
+https://xtuc.github.io/fableconf-2017-material/#/?_k=qfn1xd
 
 
 ### ASPNET CORE STUFF
