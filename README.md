@@ -1,5 +1,10 @@
 # Stuff
 
+
+### Trainning
+
+- flexbox en francais : http://flexboxfroggy.com
+
 ### Build VS CODE on ARM
 
 https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run-from-source
