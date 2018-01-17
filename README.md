@@ -4,6 +4,7 @@
 ### Trainning
 
 - flexbox en francais : http://flexboxfroggy.com
+- flexbox eng : http://www.flexboxdefense.com/
 
 ### Build VS CODE on ARM
 
