@@ -8,6 +8,10 @@
 - flexbox eng : http://www.flexboxdefense.com/
 - Grod layout : http://cssgridgarden.com/#fr
 
+### Workshops
+
+- node/git/js : https://github.com/workshopper
+
 ### Build VS CODE on ARM
 
 https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run-from-source
