@@ -1,0 +1,6 @@
+- AMP + PWA + CDN to get fast web site
+- Aspnet core + Fsharp + MongoDb
+- Dotnet core test with repoting in tfs 
+- Get small net core app in docker image
+- Fsharp types from Csharp programme
+- use blazor to get static web site fron aspnet
