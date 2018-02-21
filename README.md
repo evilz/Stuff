@@ -1,5 +1,9 @@
 # Stuff
 
+# CI / GITHUB
+
+https://github.com/dustinmoris/CI-BuildStats
+
 
 ### Trainning
 
