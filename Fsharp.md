@@ -3,3 +3,5 @@
 
 
 Simple Parser =>http://www.fssnip.net/2y/title/Functional-wrappers-for-TryParse-APIs
+
+Auto mapper in computation : https://codereview.stackexchange.com/questions/190836/automapper-dsl-computation-expression-for-f
