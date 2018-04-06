@@ -5,3 +5,9 @@
 Simple Parser =>http://www.fssnip.net/2y/title/Functional-wrappers-for-TryParse-APIs
 
 Auto mapper in computation : https://codereview.stackexchange.com/questions/190836/automapper-dsl-computation-expression-for-f
+
+
+
+## Workshop
+
+- migrate to dotnet core => https://enricosada.github.io/fsharpx-2018-workshop/
