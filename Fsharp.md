@@ -11,3 +11,31 @@ Auto mapper in computation : https://codereview.stackexchange.com/questions/1908
 ## Workshop
 
 - migrate to dotnet core => https://enricosada.github.io/fsharpx-2018-workshop/
+
+
+
+
+FSHARP Love
+===========
+
+- pipelines
+- domain modelling : union + record + pattern matching
+- domain semantics
+
+- Elmish => update/view functions
+
+- scripted tests in interactive (dont use TestData)
+- composition
+- typeprovider
+
+- iterop / object expression
+
+Fsharp Bad no so good code
+==========================
+curry/uncurry
+backpipe  <|   and then   non of <||  <|||
+not using explicit argument and use too much compisition
+using fold for simple stuff like sum, count ...., if use fold  use ||>  to set initial state and Seq of data
+dont hack record using ref maybe create class
+using ref for mutable => use mutable instead of ref 
+
