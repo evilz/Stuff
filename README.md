@@ -62,3 +62,6 @@ https://blogs.msdn.microsoft.com/visualstudio/2017/09/18/7-more-lesser-known-deb
 
 - spinner braille : https://github.com/ManrajGrover/halo
 
+### Persistence and data
+
+- Mapping Parent-Child Relationships with Dapper : https://gist.github.com/Lobstrosity/1133111
