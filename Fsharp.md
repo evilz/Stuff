@@ -6,7 +6,7 @@ Simple Parser =>http://www.fssnip.net/2y/title/Functional-wrappers-for-TryParse-
 
 Auto mapper in computation : https://codereview.stackexchange.com/questions/190836/automapper-dsl-computation-expression-for-f
 
-
+Fsharp used in c# : http://connelhooley.uk/blog/2017/04/30/f-sharp-to-c-sharp
 
 ## Workshop
 
